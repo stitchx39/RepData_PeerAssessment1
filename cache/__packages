@@ -1,3 +1,4 @@
 base
-plyr
 ggplot2
+plyr
+knitr
